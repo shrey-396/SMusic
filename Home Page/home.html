@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smusic</title>
+    <link rel="stylesheet" href="./home.css">
+    <link rel="shortcut icon" href="../favicon_io/favicon.ico" type="image/x-icon"> 
+    <link
+      rel="stylesheet"
+      data-purpose="Layout StyleSheet"
+      title="Web Awesome"
+      href="/css/app-wa-d53d10572a0e0d37cb8d614a3f177a0c.css?vsn=d"
+    >
+        <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css"
+      >
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-thin.css"
+      >
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-solid.css"
+      >
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-regular.css"
+      >
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.5.2/css/sharp-light.css"
+      >
+</head>
+<body>
+    <header>
+        <section id="username"></section>
+        <section class="logo-block">
+            <img src="../SignUp-Login Page/img1.jpg">
+            <h1>Smusic</h1>
+        </section>
+        <section class="l-block">
+            <button id="logout">Logout</button>
+        </section>
+    </header>
+    <section class="main-block">
+
+        <div class="left-div" id="liked-block">
+            <div class="libr">
+                <i class="fa-solid fa-rectangle-vertical-history"></i>
+                <h2>Your Library</h2>
+            </div>
+            <div class="liked" id="liked-block"></div>
+        </div>
+
+        <div class="right-div" id="mainalbumdiv">
+            <div class="album-heading-libr">
+                <h2>All Albums</h2>
+            </div>
+            <div class="albumsliked" id="albumdiv"></div>
+        </div>
+
+        <div class="right-div-songs-div" id="mainsongsdiv">
+            <div class="songs-heading-libr">
+                <i class="fa-duotone fa-circle-chevron-left" style="--fa-primary-color: #ffffff; --fa-secondary-color: #000000;" id="goback"></i>                <h2>Songs List</h2>
+            </div>
+            <div class="albumsliked" id="songsdiv"></div>
+        </div>
+    </section>
+    
+    <section id="play-block"></section>
+    
+    <script src="./home.js"></script>
+</body>
+</html>

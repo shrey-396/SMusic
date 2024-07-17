@@ -1,0 +1,543 @@
+[
+    {
+        "albumname":"Hindi Songs",
+        "albumimage":"../Data/Image/Hindi.jpg",
+        "songs":[
+            {
+                "songname":"Jeena Jeena",
+                "artist":"Atif Aslam",
+                "song":"../Data/Songs/Hindi/JeenaJeena.mp3"
+            },
+            {
+                "songname":"Duaa",
+                "artist":"Arjit Singh",
+                "song":"../Data/Songs/Hindi/Duaa.mp3"
+            },
+            {
+                "songname":"Tum Hi Ho",
+                "artist":"Mithoon, Arjit Singh",
+                "song":"../Data/Songs/Hindi/TumHiHo.mp3"
+            },
+            {
+                "songname":"Tere Sang Yaara",
+                "artist":"Manoj Muntashir, Atif Aslam",
+                "song":"../Data/Songs/Hindi/TereSangYaara.mp3"
+            },
+            {
+                "songname":"Ae Dil Hai Mushkil",
+                "artist":"Pritam, Arjit Singh",
+                "song":"../Data/Songs/Hindi/AeDilHaiMushkil.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Garba",
+        "albumimage":"../Data/Image/Garba.jpg",
+        "songs":[
+            {
+                "songname":"Tara Vina Shyam",
+                "artist":"Atul Purohit",
+                "song":"../Data/Songs/Garba/TaraVinaShyam.mp3"
+            },
+            {
+                "songname":"Pankhida",
+                "artist":"Falguni Pathak",
+                "song":"../Data/Songs/Garba/Pankhida.mp3"
+            },
+            {
+                "songname":"3 Tali",
+                "artist":"Geeta Rabari",
+                "song":"../Data/Songs/Garba/3TaliMix.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Panjabi Songs",
+        "albumimage":"../Data/Image/Panjabi.jpg",
+        "songs":[
+            {
+                "songname":"295",
+                "artist":"Sidhu Moose Wala",
+                "song":"../Data/Songs/Panjabi/295.mp3"
+            },
+            {
+                "songname":"Coco",
+                "artist":"Sukh E",
+                "song":"../Data/Songs/Panjabi/Coco.mp3"
+            },
+            {
+                "songname":"DESIRES",
+                "artist":"AP Dhillon",
+                "song":"../Data/Songs/Panjabi/DESIRES.mp3"
+            },
+            {
+                "songname":"Gaddi Neevi",
+                "artist":"Yo Yo Honey Singh",
+                "song":"../Data/Songs/Panjabi/GaddiNeevi.mp3"
+            },
+            {
+                "songname":"Racks and Rounds",
+                "artist":"Sidhu Moose Wala",
+                "song":"../Data/Songs/Panjabi/RacksAndRounds.mp3"
+            },
+            {
+                "songname":"Unforgettable",
+                "artist":"Diljit Dosanjh",
+                "song":"../Data/Songs/Panjabi/Unforgettable.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Bhajan",
+        "albumimage":"../Data/Image/Bhajan.jpg",
+        "songs":[
+            {
+                "songname":"Hanuman Chalisa",
+                "artist":"Hariharan",
+                "song":"../Data/Songs/Bhajan/HanumanChalisa.mp3"
+            },
+            {
+                "songname":"Shiv Tandav Strotram",
+                "artist":"Shankar Mahadevan",
+                "song":"../Data/Songs/Bhajan/ShivTandavStrotram.mp3"
+            },
+            {
+                "songname":"Itni Shakti Hamein Dena Data",
+                "artist":"Pushpa Paagdharey",
+                "song":"../Data/Songs/Bhajan/ItniShaktiHameinDenaData.mp3"
+            },
+            {
+                "songname":"Ganpati Ayo Bapa",
+                "artist":"Unknown",
+                "song":"../Data/Songs/Bhajan/GanpatiAyoBapa.mp3"
+            },
+            {
+                "songname":"Ganesh Mantra",
+                "artist":"Soniyaa Bhattacharya",
+                "song":"../Data/Songs/Bhajan/GaneshMantra.mp3"
+            },
+            {
+                "songname":"Shirdiwale Saibaba",
+                "artist":"Mohammed Rafi",
+                "song":"../Data/Songs/Bhajan/ShirdiwaleSaibaba.mp3"
+            },
+            {
+                "songname":"Shree Krishna Sharanam Mamah",
+                "artist":"Hemant Chauhan",
+                "song":"../Data/Songs/Bhajan/ShreeKrishnaSharanamMamah.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"English Songs",
+        "albumimage":"../Data/Image/English.jpg",
+        "songs":[
+            {
+                "songname":"Bad Wali Feeling",
+                "artist":"Indeep Bakshi, Neha Kakkar",
+                "song":"../Data/Songs/English/BadWaliFeeling.mp3"
+            },
+            {
+                "songname":"Butter",
+                "artist":"BTS",
+                "song":"../Data/Songs/English/Butter.mp3"
+            },
+            {
+                "songname":"All About Me",
+                "artist":"NERIM",
+                "song":"../Data/Songs/English/All-About-Me.mp3"
+            },
+            {
+                "songname":"Control",
+                "artist":"Alan Walker",
+                "song":"../Data/Songs/English/Control.mp3"
+            },
+            {
+                "songname":"Bad Boy",
+                "artist":"Marwa Loud",
+                "song":"../Data/Songs/English/Bad-Boy.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Happy Music",
+        "albumimage":"../Data/Image/Happy.jpg",
+        "songs":[
+            {
+                "songname":"Be Happy",
+                "artist":"DanaMusic",
+                "song":"../Data/Songs/Happy/be-happy.mp3"
+            },
+            {
+                "songname":"Happy Day",
+                "artist":"Top-Flow",
+                "song":"../Data/Songs/Happy/happy-day.mp3"
+            },
+            {
+                "songname":"Happy Family Life",
+                "artist":"Top-Flow",
+                "song":"../Data/Songs/Happy/happy-family-life.mp3"
+            },
+            {
+                "songname":"Happy Mood and Ukulele",
+                "artist":"Lesfm",
+                "song":"../Data/Songs/Happy/happy-mood-and-ukulele.mp3"
+            },
+            {
+                "songname":"Happy Music",
+                "artist":"AudioCoffee",
+                "song":"../Data/Songs/Happy/happy-music.mp3"
+            },
+            {
+                "songname":"Happy",
+                "artist":"yourtunes",
+                "song":"../Data/Songs/Happy/happy.mp3"
+            },
+            {
+                "songname":"Playing in Color",
+                "artist":"Unknown",
+                "song":"../Data/Songs/Happy/playing-in-color.mp3"
+            },
+            {
+                "songname":"Summer Adventures",
+                "artist":"SergePavkinMusic",
+                "song":"../Data/Songs/Happy/summer-adventures.mp3"
+            },
+            {
+                "songname":"The Cradle of Your Soul",
+                "artist":"lemonmusicstudio",
+                "song":"../Data/Songs/Happy/the-cradle-of-your-soul.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Sad Music",
+        "albumimage":"../Data/Image/Sad.jpg",
+        "songs":[
+            {
+                "songname":"Broken Sonata",
+                "artist":"CalvinCalvier",
+                "song":"../Data/Songs/Sad/broken-sonata-sad-piano.mp3"
+            },
+            {
+                "songname":"I Giorni",
+                "artist":"CalvinCalvier",
+                "song":"../Data/Songs/Sad/i-giorni.mp3"
+            },
+            {
+                "songname":"Sad Piano One",
+                "artist":"Oleksii_kalyna",
+                "song":"../Data/Songs/Sad/sad-piano-one.mp3"
+            },
+            {
+                "songname":"Sad Violin",
+                "artist":"Music_For_Videos",
+                "song":"../Data/Songs/Sad/sad-violin.mp3"
+            },
+            {
+                "songname":"Sad",
+                "artist":"Lesfm",
+                "song":"../Data/Songs/Sad/sad.mp3"
+            },
+            {
+                "songname":"Song From A Secret Garden",
+                "artist":"SoulProdMusic",
+                "song":"../Data/Songs/Sad/song-from-a-secret-garden.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Motivational Music",
+        "albumimage":"../Data/Image/Motivational.jpg",
+        "songs":[
+            {
+                "songname":"Anthem of Victory",
+                "artist":"Good_B_Music",
+                "song":"../Data/Songs/Motivational/anthem-of-victory.mp3"
+            },
+            {
+                "songname":"Cinematic Motivational",
+                "artist":"Onoychenkomusic",
+                "song":"../Data/Songs/Motivational/cinematic-motivational.mp3"
+            },
+            {
+                "songname":"Meeting The Stars",
+                "artist":"White-Records",
+                "song":"../Data/Songs/Motivational/meeting-the-stars.mp3"
+            },
+            {
+                "songname":"Motivational Electronic",
+                "artist":"Alex-Productions",
+                "song":"../Data/Songs/Motivational/motivational-electronic.mp3"
+            },
+            {
+                "songname":"Sport Motivational",
+                "artist":"ludr3d",
+                "song":"../Data/Songs/Motivational/sport-motivational.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Emotional Music",
+        "albumimage":"../Data/Image/Emotional.jpg",
+        "songs":[
+            {
+                "songname":"Dramatic Piano",
+                "artist":"UNIVERSFIELD",
+                "song":"../Data/Songs/Emotional/dramatic-piano.mp3"
+            },
+            {
+                "songname":"Endless World",
+                "artist":"CalvinClavier",
+                "song":"../Data/Songs/Emotional/endless-world.mp3"
+            },
+            {
+                "songname":"Epic Action",
+                "artist":"Magnetic_Trailer",
+                "song":"../Data/Songs/Emotional/epic-action.mp3"
+            },
+            {
+                "songname":"Field Grass",
+                "artist":"SergePavkinMusic",
+                "song":"../Data/Songs/Emotional/field-grass.mp3"
+            },
+            {
+                "songname":"Lost Illusions",
+                "artist":"Rockot",
+                "song":"../Data/Songs/Emotional/lost-illusions.mp3"
+            },
+            {
+                "songname":"Town",
+                "artist":"BeCorbal",
+                "song":"../Data/Songs/Emotional/town.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Relaxing Music",
+        "albumimage":"../Data/Image/Relaxing.jpg",
+        "songs":[
+            {
+                "songname":"Deep Relaxing Music",
+                "artist":"Onetent",
+                "song":"../Data/Songs/Relaxing/deep-relaxing-music.mp3"
+            },
+            {
+                "songname":"Epic Relaxing Flute Music",
+                "artist":"Onetent",
+                "song":"../Data/Songs/Relaxing/epic-relaxing-flute-music.mp3"
+            },
+            {
+                "songname":"Just Relax",
+                "artist":"Lesfm",
+                "song":"../Data/Songs/Relaxing/just-relax.mp3"
+            },
+            {
+                "songname":"Please Calm My Mind",
+                "artist":"Lesfm",
+                "song":"../Data/Songs/Relaxing/please-calm-my-mind.mp3"
+            },
+            {
+                "songname":"Relaxing Music",
+                "artist":"RelaxingTime",
+                "song":"../Data/Songs/Relaxing/relaxing-music.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Scary Music",
+        "albumimage":"../Data/Image/Scary.jpg",
+        "songs":[
+            {
+                "songname":"Caves of Dawn",
+                "artist":"GuilhermeBernardes",
+                "song":"../Data/Songs/Scary/caves-of-dawn.mp3"
+            },
+            {
+                "songname":"Dark Ambient Horror",
+                "artist":"SoundGalleryByDmitryTaras",
+                "song":"../Data/Songs/Scary/dark-ambient-horror.mp3"
+            },
+            {
+                "songname":"Halloween Music",
+                "artist":"SoundGalleryByDmitryTaras",
+                "song":"../Data/Songs/Scary/halloween-music.mp3"
+            },
+            {
+                "songname":"Haunted House",
+                "artist":"MC_QUATTRO",
+                "song":"../Data/Songs/Scary/haunted-house.mp3"
+            },
+            {
+                "songname":"This is Halloween",
+                "artist":"UNIVERSFIELD",
+                "song":"../Data/Songs/Scary/this-is-halloween.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Romantic Music",
+        "albumimage":"../Data/Image/Romantic.jpg",
+        "songs":[
+            {
+                "songname":"Instrumental Romantic Jazz",
+                "artist":"khairulmat",
+                "song":"../Data/Songs/Romantic/instrumental-romantic-jazz.mp3"
+            },
+            {
+                "songname":"One Night With You",
+                "artist":"White_Records",
+                "song":"../Data/Songs/Romantic/one-night-with-you.mp3"
+            },
+            {
+                "songname":"Romantic Ballad",
+                "artist":"Top-Flow",
+                "song":"../Data/Songs/Romantic/romantic-ballad.mp3"
+            },
+            {
+                "songname":"Romantic Love Piano",
+                "artist":"makesoundmusic",
+                "song":"../Data/Songs/Romantic/romantic-love-piano.mp3"
+            },
+            {
+                "songname":"Wedding Romantic",
+                "artist":"PaulYudin",
+                "song":"../Data/Songs/Romantic/wedding-romantic.mp3"
+            },
+            {
+                "songname":"Winter Legacy",
+                "artist":"White_Records",
+                "song":"../Data/Songs/Romantic/winter-legacy.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Peaceful Music",
+        "albumimage":"../Data/Image/Peaceful.jpg",
+        "songs":[
+            {
+                "songname":"Meditation Sounds",
+                "artist":"RelaxingTime",
+                "song":"../Data/Songs/Peaceful/meditation-sounds.mp3"
+            },
+            {
+                "songname":"Peaceful Morning",
+                "artist":"Light_Music",
+                "song":"../Data/Songs/Peaceful/peaceful-morning.mp3"
+            },
+            {
+                "songname":"Peaceful Sleep",
+                "artist":"Good_B_Music",
+                "song":"../Data/Songs/Peaceful/peaceful-sleep.mp3"
+            },
+            {
+                "songname":"Piano Calm Music",
+                "artist":"RelaxingTime",
+                "song":"../Data/Songs/Peaceful/piano-calm-music.mp3"
+            },
+            {
+                "songname":"Relaxing Music",
+                "artist":"Onetent",
+                "song":"../Data/Songs/Peaceful/relaxing-music.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Energetic Music",
+        "albumimage":"../Data/Image/Energetic.jpg",
+        "songs":[
+            {
+                "songname":"Audio Convergence",
+                "artist":"Lesiakower",
+                "song":"../Data/Songs/Energetic/audio-convergence.mp3"
+            },
+            {
+                "songname":"Baby Mandala",
+                "artist":"prazkhanal",
+                "song":"../Data/Songs/Energetic/baby-mandala.mp3"
+            },
+            {
+                "songname":"Drive Breakbeat",
+                "artist":"Rockot",
+                "song":"../Data/Songs/Energetic/drive-breakbeat.mp3"
+            },
+            {
+                "songname":"Invincible",
+                "artist":"Music_Unlimited",
+                "song":"../Data/Songs/Energetic/invincible-energetic-trap.mp3"
+            },
+            {
+                "songname":"Energe Pill",
+                "artist":"Lesfm",
+                "song":"../Data/Songs/Energetic/energe-pill.mp3"
+            },
+            {
+                "songname":"Upbeat Energetic Rock",
+                "artist":"Vivaleum",
+                "song":"../Data/Songs/Energetic/upbeat-energetic-rock.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Mysterious Music",
+        "albumimage":"../Data/Image/Mysterious.jpg",
+        "songs":[
+            {
+                "songname":"Leonell Cassio",
+                "artist":"LeonellCassio",
+                "song":"../Data/Songs/Mysterious/leonell-cassio.mp3"
+            },
+            {
+                "songname":"Mysterious Celesta",
+                "artist":"Ashot-Danielyan",
+                "song":"../Data/Songs/Mysterious/mysterious-celesta.mp3"
+            },
+            {
+                "songname":"Mysterious Music",
+                "artist":"White-Records",
+                "song":"../Data/Songs/Mysterious/mysterious-music.mp3"
+            },
+            {
+                "songname":"Prepare to Die",
+                "artist":"OB-LIX",
+                "song":"../Data/Songs/Mysterious/prepare-to-die.mp3"
+            },
+            {
+                "songname":"Shadow Behind",
+                "artist":"White-Records",
+                "song":"../Data/Songs/Mysterious/shadow-behind.mp3"
+            }
+        ]
+    },
+    {
+        "albumname":"Funny Music",
+        "albumimage":"../Data/Image/Funny.jpg",
+        "songs":[
+            {
+                "songname":"Comedian",
+                "artist":"PianoAmor",
+                "song":"../Data/Songs/Funny/comedian.mp3"
+            },
+            {
+                "songname":"Cruise",
+                "artist":"White-Records",
+                "song":"../Data/Songs/Funny/cruise.mp3"
+            },
+            {
+                "songname":"Funny Accompanying",
+                "artist":"White-Records",
+                "song":"../Data/Songs/Funny/funny-accompanying.mp3"
+            },
+            {
+                "songname":"Legacy of Grieg",
+                "artist":"PianoAmor",
+                "song":"../Data/Songs/Funny/legacy-of-grieg.mp3"
+            },
+            {
+                "songname":"Odessa Bulgarish",
+                "artist":"White-Records",
+                "song":"../Data/Songs/Funny/odessa-bulgarish.mp3"
+            }
+        ]
+    }
+]
